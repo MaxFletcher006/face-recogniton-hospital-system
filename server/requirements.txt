@@ -1,0 +1,11 @@
+psycopg2
+fastapi
+uvicorn
+sqlmodel
+bcrypt
+deepface
+opencv-python
+tf-keras
+python-multipart
+pandas
+numpy
